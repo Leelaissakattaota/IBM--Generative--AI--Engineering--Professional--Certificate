@@ -94,15 +94,15 @@
 **🎯 Learning Outcomes**
 
 ---
-  * Build and deploy production-ready Generative AI applications
+  * Build and deploy **production-ready Generative AI applications**
 
-  * Integrate LLMs into real-world software systems
+  * Integrate **LLMs into real-world software systems**
 
-  * Design RAG architectures for accurate, contextual responses
+  * Design **RAG architectures** for accurate, contextual responses
 
-  * Develop scalable AI pipelines
+  * Develop **scalable AI pipelines**
 
-  * Apply AI engineering best practices
+  * Apply **AI engineering best practices**
 
 ---
 
